@@ -5,6 +5,7 @@
 .text-primary{
     color:#FD6E0A;
 }
+/* header */
 .header{
     background-image: url(../images/donation2.jpg);
     background-size: cover;
@@ -25,6 +26,7 @@
     border: 0;
     padding: 14px 30px;
 }
+/* banner */
 .banner-title{
     font-weight: 800;
     font-size: 45px;
@@ -76,6 +78,7 @@ button{
     margin-top: 40px;
     color: lightslategray;
 }
+/* donation */
 .don-plan, .lives{
     display: flex;
     margin: 50px 200px;
@@ -140,6 +143,7 @@ button{
 .email{
     padding: 15px;
 }
+/* footer */
 .footer-title{
     font-family: cursive
 }
