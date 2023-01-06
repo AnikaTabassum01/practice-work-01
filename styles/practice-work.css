@@ -1,0 +1,154 @@
+{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color:#FD6E0A;
+}
+.header{
+    background-image: url(../images/donation2.jpg);
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* filter: blur(1px); 
+    -webkit-filter: blur(1px);*/
+    text-align: center;
+}
+.btn-primary{
+    height: 50px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 14px 30px;
+}
+.banner-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+.banner-title, .banner-description{
+    color: #FFFFFF;
+    text-align: center;
+}
+.banner-description{
+    font-size: 20px;
+}
+.header-div{
+    padding: 200px 400px;
+}
+button{
+    align-items: center;
+}
+.donate{
+    margin: 100px ;
+    align-items: center;
+    text-align: center;
+}
+.donate-title{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.donate-description{
+    font-size: 18px;
+    text-align: center;
+}
+.secondary{
+    margin-top: 20px;
+    padding: 30px;
+    background-color: rgb(250, 247, 247);
+    border: none;
+    font-weight: 400;
+}
+.donate-button {
+    margin-right: 30px;
+}
+
+.secondary-special{
+    padding: 30px;
+    background-color: lightpink
+    border: 1px solid coral;    
+}
+.amount{
+    margin-top: 40px;
+    color: lightslategray;
+}
+.don-plan, .lives{
+    display: flex;
+    margin: 50px 200px;
+    gap:30px;
+    align-items: center;
+    text-align: left;
+}
+/* .don-title{
+    font-size: 40px;
+    font-weight: 600;
+}
+.don-description{
+    font-size: 18px; */   
+}
+.don-plan-title{
+
+    font-weight: 400px;
+}
+.don-plan-des{
+    color: grey;
+}
+.don-plan-1{
+    background-color: lightgoldenrodyellow;
+    padding: 20px 30px;
+    
+} 
+.don-plan-2{
+   background-color: lightcyan;
+   padding: 20px 30px;
+} 
+.don-plan-3{
+     background-color: lavenderblush; 
+     padding: 20px 30px;
+}
+.lives01{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+} 
+.lives-title{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+}
+.lives-description{
+    font-size: 18px;
+    text-align: left;
+}
+.last-part{
+    background-color: rgb(242, 228, 228);
+    height: 150px;
+    width: 60%;
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+   }
+.form{
+    margin:0;
+    padding-top: 40px;
+    gap: 0;
+}
+.email{
+    padding: 15px;
+}
+.footer-title{
+    font-family: cursive
+}
+.footer{
+    background-color: black;
+    color: red;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
+}
